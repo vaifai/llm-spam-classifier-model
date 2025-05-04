@@ -9,7 +9,7 @@
 
 ## ✨ [Live Demo](https://llm-spam-classifier-model.streamlit.app/)
 
-![App Screenshot](https://i.imgur.com/placeholder.png)
+![App Screenshot](app_screenshot.png)
 
 ## 🚀 Overview
 
